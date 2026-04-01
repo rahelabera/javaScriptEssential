@@ -1,0 +1,61 @@
+{
+  "articles": [
+    {
+      "title": "Ethiopia Launches Major Green Energy Project",
+      "date": "March 30, 2026",
+      "description": "The Ethiopian government has inaugurated a new 500 MW solar power plant in the Afar region, marking a significant step toward achieving its renewable energy targets.",
+      "source": "Ethiopian News Agency",
+      "category": "Energy & Environment",
+      "key_highlights": [
+        "The project is expected to provide electricity to over 2 million households.",
+        "It will reduce carbon emissions by approximately 600,000 tons annually.",
+        "Chinese and local companies collaborated on the construction.",
+        "This is part of Ethiopia’s plan to generate 100% of its electricity from renewable sources by 2030."
+      ],
+      "why_it_matters": [
+        "Boosts energy security and reduces reliance on fossil fuels.",
+        "Creates thousands of jobs during construction and operation.",
+        "Positions Ethiopia as a regional leader in green energy.",
+        "Supports the country’s commitment to climate change mitigation."
+      ]
+    },
+    {
+      "title": "Inflation in Ethiopia Drops to Single Digits",
+      "date": "March 28, 2026",
+      "description": "The National Bank of Ethiopia announced that annual inflation has fallen to 8.7%, the lowest in over three years, thanks to improved agricultural output and tighter monetary policy.",
+      "source": "Addis Fortune",
+      "category": "Economy",
+      "key_highlights": [
+        "Food inflation decreased significantly due to good harvest season.",
+        "Central bank implemented strict liquidity management measures.",
+        "Experts predict further decline if political stability continues.",
+        "Currency exchange rate remains relatively stable this quarter."
+      ],
+      "why_it_matters": [
+        "Improves purchasing power for ordinary citizens.",
+        "Encourages investment and business confidence.",
+        "Creates favorable conditions for economic growth.",
+        "May lead to lower interest rates in the coming months."
+      ]
+    },
+    {
+      "title": "New Digital Payment System Launched in Addis Ababa",
+      "date": "March 25, 2026",
+      "description": "The Ethiopian government, in partnership with private banks, has rolled out a new unified digital payment platform aimed at reducing cash dependency.",
+      "source": "Capital Ethiopia",
+      "category": "Technology",
+      "key_highlights": [
+        "Users can now pay bills, transfer money, and shop using one app.",
+        "The system supports both Amharic and English interfaces.",
+        "Over 500,000 users registered in the first week.",
+        "Includes strong security features and fraud protection."
+      ],
+      "why_it_matters": [
+        "Promotes financial inclusion across the country.",
+        "Reduces risks associated with carrying large amounts of cash.",
+        "Modernizes the economy and supports e-commerce growth.",
+        "Aligns Ethiopia with global digital transformation trends."
+      ]
+    }
+  ]
+}
